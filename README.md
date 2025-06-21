@@ -1,8 +1,32 @@
-# Plant Disease Detector
-A Flutter app that detects a plant's disease given a photo of an affected part of the plant.
+[Used the Inception V3 CNN Model used in this App from - https://github.com/kunaltyagi16/CNN-Models-Comparison](https://github.com/kunaltyagi16/CNN-Models-Comparison)
+
+<b>Selection of the above InceptionV3 Keras model was due to its highest accuracy among all the 3 models and this was converted to TensorFlow Lite format using TFLiteConverter, enabling deployment on mobile and embedded devices.</b>
+
+# Leaf Pixel - Plant Disease Detector
+This Flutter-based mobile app detects diseases in medicinal plant leaves using a pre-trained InceptionV3 model converted to TensorFlow Lite. Users can capture or upload leaf images, and the app identifies potential diseases, their causes, and recommended solutions. It also maintains a history of diagnoses, helping users monitor plant health over time.
+
+# 🌿 App Features
+📷 Image Input: Capture or upload leaf images via camera/gallery
+
+🧠 Disease Detection: Uses InceptionV3 + TFLite to detect plant diseases
+
+💡 Smart Suggestions: Displays disease name, possible causes, and solutions
+
+🕓 Session History: Keeps track of past diagnoses with images and dates
+
+📱 User-Friendly UI: Intuitive navigation with camera and history access
 
 ## Visuals
-<img src="plant_disease_detector.gif" height="500">
+
+Home Page and Selection
+
+![Home Page](https://github.com/user-attachments/assets/609c836f-d0f7-4ea6-bd31-7eac28f05e6c)  ![image](https://github.com/user-attachments/assets/d94a289c-a4a4-4eb9-a8a3-93460a03b7d5)
+
+Result Page 
+
+![image](https://github.com/user-attachments/assets/8e97a2e5-5f7a-491c-b7bc-a41d7ef5a061)  ![image](https://github.com/user-attachments/assets/40ccddbf-9dbf-4d28-81b0-f6c57688796e)
+
+![image](https://github.com/user-attachments/assets/202375d6-0208-4747-99a5-3b830d7b525d)
 
 ## Installation
 A Flutter installation is required to run this project.
