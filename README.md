@@ -1,4 +1,4 @@
-[Luink to the Inception V3 CNN Model used in this App from - https://github.com/kunaltyagi16/CNN-Models-Comparison](https://github.com/kunaltyagi16/CNN-Models-Comparison)
+[Link to the Inception V3 CNN Model used in this App from - https://github.com/kunaltyagi16/CNN-Models-Comparison](https://github.com/kunaltyagi16/CNN-Models-Comparison)
 
 <b>Selection of the above InceptionV3 Keras model was due to its highest accuracy among all the 3 models and this was converted to TensorFlow Lite format using TFLiteConverter, enabling deployment on mobile and embedded devices.</b>
 
