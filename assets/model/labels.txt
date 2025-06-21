@@ -1,0 +1,27 @@
+Arjun_healthy_leaf
+Arjun_spotty_leaf
+Basil_healthy
+Chinar_healthy
+Chinar_spotty_leaf
+Guava_fungal _infection
+Guava_healthy
+Jamun_fungal_infection
+Jamun_healthy
+Jatropha_healthy
+Jatropha_spotty_leaf
+Karanj_healthy
+Karanj_spotty_leaf
+Lemon_citrus_scab
+Lemon_healthy
+Mango_fungal_mold
+Mango_healthy
+Pepper__bell___Bacterial_spot
+Pepper__bell___healthy
+Pomegranate_Anthracnose
+Pomegranate_healthy
+Potato__Early_blight
+Potato__healthy
+Potato__Late_blight
+Tomato_Early_blight
+Tomato_healthy
+Tomato_Late_blight
