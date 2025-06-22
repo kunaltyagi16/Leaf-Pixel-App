@@ -73,9 +73,6 @@ It displays the results on the next screen `Suggestions`
     - Tomato Mosaic Virus
     - Tomato Yellow Leaf Curl Virus
 
-- The size of the dataset was only sufficient enough to make the model recognize selected  diseases, but it faces problems with images of non-plants.
-- The application was built using Flutter and a `tflite` model from [Teachable Machine Learning by Google](https://teachablemachine.withgoogle.com/). The dataset was from [KAGGLE](https://www.kaggle.com/saroz014/plant-diseases).
-
 ## Contributing
 Contributions towards the project are welcome.
 Specifically:
