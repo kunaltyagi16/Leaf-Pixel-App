@@ -22,8 +22,6 @@ Tutorial
 
 <img src="https://github.com/user-attachments/assets/28591d4c-8c0e-44f8-96ee-f6ce47b25991" alt="Tutorial" width="450" height="854"/>
 
-<b> Android App Link </b> - https://drive.google.com/file/d/1k9qnKjHM_-qqLXBc7_nOoymFFaY5bVug/view?usp=sharing
-
 ## Installation
 A Flutter installation is required to run this project.
 To install Flutter, visit the official installation [documentation](https://docs.flutter.dev/get-started/install).
