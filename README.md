@@ -20,11 +20,11 @@ This Flutter-based mobile app detects diseases in medicinal plant leaves using a
 
 Home Page and Selection
 
-![Home Page](https://github.com/user-attachments/assets/609c836f-d0f7-4ea6-bd31-7eac28f05e6c)  ![image](https://github.com/user-attachments/assets/d94a289c-a4a4-4eb9-a8a3-93460a03b7d5)
+![Home Page](https://github.com/user-attachments/assets/39fa049f-718a-49ae-82a0-3d91039d2f4f)
 
 Result Page 
 
-![image](https://github.com/user-attachments/assets/8e97a2e5-5f7a-491c-b7bc-a41d7ef5a061)  ![image](https://github.com/user-attachments/assets/40ccddbf-9dbf-4d28-81b0-f6c57688796e)
+![Output 1](https://github.com/user-attachments/assets/ff356a90-272d-4f11-ace4-381d465646aa) ![Output 2](https://github.com/user-attachments/assets/72f78f6e-4619-423e-8338-c91bf9bce53b)
 
 <b> Android App Link </b> - https://drive.google.com/file/d/1k9qnKjHM_-qqLXBc7_nOoymFFaY5bVug/view?usp=sharing
 
